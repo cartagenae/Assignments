@@ -12,7 +12,7 @@
 
 ### redSquare.html
 
-<img width="1792" alt="redSquare" src="https://user-images.githubusercontent.com/6395465/108587759-518d1600-730a-11eb-898f-b58a23058e24.png">
+<img width="1792" alt="redSquare" src="https://user-images.githubusercontent.com/6395465/108587825-ceb88b00-730a-11eb-8e23-776845b07495.png">
 
 <hr />
 
